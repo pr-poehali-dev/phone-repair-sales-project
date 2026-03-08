@@ -43,7 +43,7 @@ export default function Navbar({ activeSection, onNavigate }: NavbarProps) {
             <Icon name="Wrench" size={16} className="text-white" />
           </div>
           <span className="font-display text-lg font-semibold tracking-wide text-foreground">
-            ТЕХНО<span className="text-primary">СЕРВИС</span>
+            DOCTOR <span className="text-primary">GSM</span>
           </span>
         </button>
 

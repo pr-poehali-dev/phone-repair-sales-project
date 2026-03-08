@@ -23,7 +23,7 @@ export default function AboutSection() {
             <p className="text-xs font-body uppercase tracking-widest text-primary mb-3">Кто мы</p>
             <h2 className="font-display text-4xl lg:text-5xl font-semibold text-foreground mb-6">О КОМПАНИИ</h2>
             <p className="font-body text-muted-foreground leading-relaxed mb-4">
-              ТехноСервис — профессиональный сервисный центр с 2016 года. Мы специализируемся
+              Doctor GSM — профессиональный сервисный центр с 2016 года. Мы специализируемся
               на ремонте смартфонов, планшетов и ноутбуков всех марок. За это время
               выполнили более 12 000 успешных ремонтов.
             </p>

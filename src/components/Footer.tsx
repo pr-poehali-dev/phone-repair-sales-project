@@ -25,7 +25,7 @@ export default function Footer({ onNavigate }: FooterProps) {
                 <Icon name="Wrench" size={16} className="text-white" />
               </div>
               <span className="font-display text-lg font-semibold tracking-wide text-foreground">
-                ТЕХНО<span className="text-primary">СЕРВИС</span>
+                DOCTOR <span className="text-primary">GSM</span>
               </span>
             </button>
             <p className="font-body text-sm text-muted-foreground leading-relaxed max-w-xs">
@@ -77,7 +77,7 @@ export default function Footer({ onNavigate }: FooterProps) {
 
         <div className="border-t border-border pt-6 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="font-body text-xs text-muted-foreground">
-            © 2026 ТехноСервис. Все права защищены.
+            © 2026 Doctor GSM. Все права защищены.
           </p>
           <div className="flex gap-4">
             <button className="font-body text-xs text-muted-foreground hover:text-foreground transition-colors">
